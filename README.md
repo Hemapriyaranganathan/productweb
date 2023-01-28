@@ -720,6 +720,13 @@ contact.html
 ## Output:
 ![image](https://user-images.githubusercontent.com/119476111/215268910-b7b0f07e-4f00-4215-99f0-fdda9f133035.png)
 
+![image](https://user-images.githubusercontent.com/119476111/215268978-f6ac7f91-0dee-49eb-a958-bb50cab4d4e6.png)
+
+![image](https://user-images.githubusercontent.com/119476111/215269007-94cd44d5-6f91-4b4e-9bac-3e2663b0ddf5.png)
+
+![image](https://user-images.githubusercontent.com/119476111/215268992-5ac054f5-e7d8-4cb6-940f-cd824a0b7300.png)
+
+
 ## HTML Validator
 
 ![image](https://user-images.githubusercontent.com/119476111/215268115-763354b9-4336-4465-9cb0-d6ffbe55c161.png)
