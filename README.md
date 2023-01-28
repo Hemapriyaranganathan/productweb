@@ -728,6 +728,7 @@ contact.html
 ![image](https://user-images.githubusercontent.com/119476111/215267980-ad81b567-ea47-46cb-896e-3dc712b20462.png)
 
 ## HTML Validator
+
 ![image](https://user-images.githubusercontent.com/119476111/215268115-763354b9-4336-4465-9cb0-d6ffbe55c161.png)
 
 
