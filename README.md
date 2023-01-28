@@ -711,21 +711,14 @@ contact.html
         </div>
     </body>
 </html>
-
+```
 
 
 
 
 
 ## Output:
-
-![image](https://user-images.githubusercontent.com/119476111/215267967-312ff788-98cd-4d1d-ac80-ddb10d9b70f9.png)
-
-![image](https://user-images.githubusercontent.com/119476111/215267944-bbe00f9a-c7fd-4dc6-a7b2-c299bfe44c59.png)
-
-![image](https://user-images.githubusercontent.com/119476111/215267847-b1ac8e2f-9f03-4b9b-ac5d-9cf32a8e7170.png)
-
-![image](https://user-images.githubusercontent.com/119476111/215267980-ad81b567-ea47-46cb-896e-3dc712b20462.png)
+![image](https://user-images.githubusercontent.com/119476111/215268910-b7b0f07e-4f00-4215-99f0-fdda9f133035.png)
 
 ## HTML Validator
 
